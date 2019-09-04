@@ -1,0 +1,9 @@
+1.- bd: Carpeta que contiene los snipets o querys de la bd listos para ejecutar
+2.- clases: Contiene todas las clases de cada modulo, con sus respectivos metodos de crud
+3.- css: Contiene los estilos 
+4.- img: Contiene todas las imagenes que necesitemos agregar a nuestras vistas
+5.- archivos: Contien todas las imagenes de los productos agregados
+6.- js: Contiene todos ldos scripts js para cada modulo para ejecutar las funciones de crud
+7.- librerias: contendra librerias para la creacion de pdf, jquery, alertify, bootstrap, y select 2
+8.- Procesos:  Contiene archivos intermedios entre las clases y las vistas, estos madaran informacion entre una y otra
+9.- Vistas: contendra todas las vistas de cada uno de los modulos 
